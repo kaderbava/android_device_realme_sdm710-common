@@ -81,3 +81,6 @@ rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
 # SSR
 persist.vendor.ssr.enable_ramdumps=0
 persist.vendor.ssr.restart_level=ALL_ENABLE
+
+# SafteyNet
+ro.build.fingerprint=google/coral/coral:10/QQ2A.200305.003/6156912:user/release-keys

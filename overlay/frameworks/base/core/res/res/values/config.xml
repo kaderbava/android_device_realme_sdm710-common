@@ -488,4 +488,7 @@
     <bool name="config_smartChargingAvailable">true</bool>
     <bool name="config_deviceSupportSmartCharging">true</bool>
 
+    <!-- FOD Animations -->
+    <bool name="showFODAnimationPicker">true</bool>
+
 </resources>

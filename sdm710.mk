@@ -227,7 +227,7 @@ PRODUCT_PACKAGES += \
 
 # Touch
 PRODUCT_PACKAGES += \
-    lineage.touch@1.0-service.realme_sdm710
+    vendor.lineage.touch@1.0-service.realme_sdm710
 
 # GPS
 PRODUCT_COPY_FILES += \
